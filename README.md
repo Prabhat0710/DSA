@@ -1,6 +1,5 @@
 # DSA
-This is my DSA Jurney
-(https://github.com/raphaelheinz/LeetHub-3.0)
+Here I'll be documenting my DSA junery
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics

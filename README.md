@@ -1,5 +1,5 @@
 # DSA
-Here I'll be documenting my DSA junery
+Here I'll be documenting my DSA jounery
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics

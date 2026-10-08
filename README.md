@@ -34,4 +34,8 @@ Here I'll be documenting my DSA jounery
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Prabhat0710/DSA/tree/main/0054-spiral-matrix/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/Prabhat0710/DSA/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
